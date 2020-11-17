@@ -2,9 +2,11 @@ package com.app.demo;
 
 
 
+import lombok.extern.slf4j.Slf4j;
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import lombok.extern.slf4j.Slf4j;
+
 
 @Slf4j
 public class Main {
@@ -75,17 +77,12 @@ public class Main {
         return initial_board+steps;
     }
 
-    public static String process_input(String input)
-    {
-
+    public static String process_input(String input) {
         String[] parameters = input.split(",");
         return calculate_price(parameters[0],parameters[1],parameters[2],parameters[3]);
-
     }
 
-    public static String calculate_price(String product_name,String category,String cost,String weight)
-
-    {
+    public static String calculate_price(String product_name,String category,String cost,String weight) {
         Double aditionalPound = 2.0;
         Double productCost = Double.parseDouble(cost);
         Double productCostEnv = 0.0;
@@ -124,9 +121,6 @@ public class Main {
                 productCostCommision = productCost * 0.0;
 
         }
-        //calculo final
-       // productCostCommision = productCostCommision / (1 - productCostCommision);
-
         productFinalCost = productCost + productTax + productIva + productCostEnv + productCostCommision;
 
         return product_name+','+String.valueOf(productFinalCost);
