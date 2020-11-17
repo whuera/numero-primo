@@ -1,25 +1,31 @@
-# Spring Boot Blog Demo
+# Numero Primo
 
-## About
+## Resumen
+Generador / Calculo de número primo, para escenario: "input por consola"
+Arquitectura: Spring-boot
+Lenguaje: Java
 
-This is a demo project for practicing **Spring Boot + Thymeleaf**. 
-The idea was to build some basic blogging platform.
-
-It was made using **Spring Boot**, **Spring Security**, **Thymeleaf**, **Spring Data JPA**, **Spring Data REST** and **Docker**. 
-Database is in memory **H2**.
-
-There is a login and registration functionality included.
-
-User has his own blog page, where he can add new blog posts. 
-Every authenticated user can comment on posts made by other users.
-Home page is paginated list of all posts.
-Non-authenticated users can see all blog posts, but cannot add new posts or comment.
 
 ![Screenshot 1](https://user-images.githubusercontent.com/7095876/37773737-ae6a8b56-2dde-11e8-8a7f-5f259695bdc9.png)
 
 ![Screenshot 1](https://user-images.githubusercontent.com/7095876/37773767-bbcb292c-2dde-11e8-91f8-2a05fe84e05e.png)
 
-## Configuration
+## Configuración
+**Prerequisito:**
+Java 1.8
+Maven
+
+Paso 1: clonar el repositorio github, utilizar los comandos desde la consola Windows / Linux
+git init
+git clone https://github.com/whuera/numero-primo.git
+una vez descargado el repo ubicarse dentro de la carpeta:
+
+| Escenario |  Comando  |
+| --------- | -------- |
+| Windows | cd numero-primo/ |
+| Linux | cd numero-primo/ |
+| | |
+
 
 ### Configuration Files
 
