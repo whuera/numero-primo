@@ -22,3 +22,5 @@ una vez descargado el repo ubicarse dentro de la carpeta:
 | Linux | cd numero-primo/ |
 | | |
 
+Paso 2:
+ejecutar la clase Main
