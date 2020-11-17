@@ -24,3 +24,5 @@ una vez descargado el repo ubicarse dentro de la carpeta:
 
 Paso 2:
 ejecutar la clase Main
+![Paso 2](https://github.com/whuera/assets/blob/main/2020-11-16%2019_26_42-Window.png)
+
