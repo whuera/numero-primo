@@ -7,7 +7,7 @@ Lenguaje: Java
 
 
 ## Configuración
-**Prerequisito:**
+**Pre requisito:**
 Java 1.8
 Maven
 
@@ -24,5 +24,9 @@ una vez descargado el repo ubicarse dentro de la carpeta:
 
 Paso 2:
 ejecutar la clase Main
-![Paso 2](https://github.com/whuera/assets/blob/main/2020-11-16%2019_26_42-Window.png)
+| Escenario |  Comando  |
+| --------- | -------- |
+| Paso 2 | ![Paso 2](https://github.com/whuera/assets/blob/main/2020-11-16%2019_26_42-Window.png) |
+| | |
+
 
