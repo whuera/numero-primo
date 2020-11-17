@@ -26,7 +26,8 @@ Paso 2:
 ejecutar la clase Main
 | Escenario |  Comando  |
 | --------- | -------- |
-| Paso 2 | ![Paso 2](https://github.com/whuera/assets/blob/main/2020-11-16%2019_26_42-Window.png) |
+| Ejecución Paso 2 | ![Paso 1](https://github.com/whuera/assets/blob/main/2020-11-16%2019_45_53-Window.png) |
+|Resultado Paso 2 | ![Paso 2](https://github.com/whuera/assets/blob/main/2020-11-16%2019_26_42-Window.png) |
 | | |
 
 
