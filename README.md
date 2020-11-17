@@ -1,3 +1,6 @@
+[![GitHub forks](https://img.shields.io/github/forks/whuera/numero-primo)](https://github.com/whuera/numero-primo/network)
+[![GitHub issues](https://img.shields.io/github/issues/whuera/numero-primo)](https://github.com/whuera/numero-primo/issues)
+
 # Numero Primo
 
 ## Resumen
