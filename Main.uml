@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.app.demo.Main</OriginalElement>
+  <nodes>
+    <node x="205.0" y="0.0">lombok.extern.slf4j.Slf4j</node>
+    <node x="0.0" y="291.0">com.app.demo.DemoApplication</node>
+    <node x="255.0" y="104.0">com.app.demo.Main</node>
+    <node x="0.0" y="137.0">com.app.demo.Primo</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.app.demo.Main" target="lombok.extern.slf4j.Slf4j">
+      <point x="0.0" y="-71.0" />
+      <point x="410.5" y="79.0" />
+      <point x="293.5" y="79.0" />
+      <point x="29.5" y="27.0" />
+    </edge>
+    <edge source="com.app.demo.Primo" target="lombok.extern.slf4j.Slf4j">
+      <point x="0.0" y="-38.0" />
+      <point x="117.5" y="79.0" />
+      <point x="234.5" y="79.0" />
+      <point x="-29.5" y="27.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="283.0" y="172.5" />
+  <SelectedNodes>
+    <node>com.app.demo.Main</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
